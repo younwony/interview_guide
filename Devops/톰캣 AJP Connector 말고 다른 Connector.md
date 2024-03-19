@@ -1,0 +1,1 @@
+8기준 크게 HTTP Connector(NIO,NIO2, APR) 과 AJP Connector
